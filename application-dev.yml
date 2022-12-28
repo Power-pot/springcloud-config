@@ -2,7 +2,7 @@ server:
   port: 8001
 
 config:
-  info: have-a-good-time-version-1
+  info: have-a-good-time-version-2
 
 spring:
   application:
