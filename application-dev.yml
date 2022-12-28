@@ -1,6 +1,9 @@
 server:
   port: 8001
 
+config:
+  info: have-a-good-time
+
 spring:
   application:
     name: cloud-payment-service
